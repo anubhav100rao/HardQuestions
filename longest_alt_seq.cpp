@@ -5,6 +5,7 @@ using namespace std;
 /**
  * given array of length n
  * find the longest alternating sequence
+ * https://www.geeksforgeeks.org/longest-alternating-subsequence/
 */
 
 class Solution {
